@@ -1,4 +1,4 @@
-#  Lynx Project  
+#  Lynx Project  (WIP)
 
 **Competition:** CodeNection 2025  
 **Team:** Kabalanji  
